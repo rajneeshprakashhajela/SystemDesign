@@ -7,22 +7,22 @@
 
 
 <H1>System Security </H1>
-Network Security <Br/>
+<b>Network Security</b> <Br/>
    Public Key Cryptography<Br/>
    Digital Certificate & Signature<Br/>
    HTTPS<Br/>
    Firewalls <Br/>  
-Identity Management<Br/>
+<b>Identity Management</b><Br/>
    Credential Transfer<Br/>
    Credential Verification<Br/>
    Credential Storage<Br/>
    
-Access Management<Br/>
+<b>Access Management</b><Br/>
    Role Bases access<Br/>
    OAuth2<Br/>
    JWT Token<Br/>
    Token Verification<Br/>
-Common Vulnerabilities<Br/>
+<b>Common Vulnerabilities</b><Br/>
    SQL Injection<Br/>
    CSS Attacks<Br/>
    XSRF Attacks<Br/>
