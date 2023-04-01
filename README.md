@@ -30,7 +30,32 @@
 
 <h2>Latency & Throughput (Minimize Latency, Increase Throughput  </h2>
 
-<h2>Deployment </h2>
+<h2>System Deployment </h2>
+<b>Deployments</b><Br/>
+Application<Br/>
+Infrastructure<Br/>
+Operarions<Br/>
+
+<b> Large Scale Deployments</b><Br/>
+Virtual Machine<Br/>
+Docker container<Br/>
+Kubernetes<Br/>
+
+<b> System Upgrades </b><Br/>
+Rolling Upgrades<Br/>
+Blue Green Deployment<Br/>
+Recreate Deployment<Br/>
+Canary Deployment<Br/>
+
+
+
+
+
+
+
+
+
+
 
 
 
