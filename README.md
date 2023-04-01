@@ -1,4 +1,14 @@
 <h1> System Design </h1>
+![image](https://user-images.githubusercontent.com/43515480/229278456-30266515-30d8-4396-8294-1b5f14b1ef73.png)
+
+<h2> Performance </h2>
+<h2> Scalability </h2>
+<h2> Reliability </h2>
+<h2>Security </h2>
+<h2>Deployment </h2>
+
+
+
 
 Server(we can get): <br/>
 1. Provisiion within own company's Data Center<br/>
@@ -16,6 +26,7 @@ Server(we can get): <br/>
 <h2>6. Message Queue </h2>
 <img width="644" alt="image" src="https://user-images.githubusercontent.com/43515480/229277666-6fb1fa71-55f4-4cff-ae20-aa84e0f92c9a.png">
 
+![image](https://user-images.githubusercontent.com/43515480/229278421-29c4676a-81f4-49c9-97e5-d10963564b86.png)
 
 
  
